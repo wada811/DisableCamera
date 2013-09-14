@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Disable Camera</string>
+    <string name="activate_admin">端末管理機能を有効にする</string>
+    <string name="deactivate_admin">端末管理機能を無効にする</string>
+    <string name="admin_explanation">カメラの有効/無効を切り替えます</string>
+    <string name="enable_camera">カメラを有効にする</string>
+    <string name="disable_camera">カメラを無効にする</string>
+    <string name="check_camera_status">カメラの有効/無効を確認する</string>
+    <string name="is_enable_camera">カメラは有効です</string>
+    <string name="is_disable_camera">カメラは無効です</string>
+    <string name="launch_camera">カメラアプリを起動する</string>
+</resources>

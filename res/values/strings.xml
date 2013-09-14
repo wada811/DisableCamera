@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Disable Camera</string>
+    <string name="activate_admin">Activate Device Admin</string>
+    <string name="deactivate_admin">Deactivate Device Admin</string>
+    <string name="admin_explanation">Set enable/disable camera</string>
+    <string name="enable_camera">Enable camera</string>
+    <string name="disable_camera">Disable camera</string>
+    <string name="check_camera_status">Check camera status</string>
+    <string name="is_enable_camera">Camera is enabled</string>
+    <string name="is_disable_camera">Camera is disabled</string>
+    <string name="launch_camera">Launch camera app</string>
+</resources>
