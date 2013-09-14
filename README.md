@@ -1,6 +1,9 @@
 # DisableCamera
 開発者向けカメラアプリテスト用アプリ
 
+DisableCamera 端末管理機能でカメラを無効化 - Google Play
+https://play.google.com/store/apps/details?id=at.wada811.disablecamera
+
 端末管理機能でカメラを無効化した際に
 Camera#open で RuntimeException が発生するか、
 その際の処理が適切に行われるかテストするためのアプリです。
