@@ -20,6 +20,3 @@ http://developer.android.com/reference/android/app/admin/DeviceAdminReceiver.htm
 
 DeviceAdminInfo | Android Developers
 http://developer.android.com/reference/android/app/admin/DeviceAdminInfo.html#USES_POLICY_DISABLE_CAMERA
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wada811/disablecamera/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
